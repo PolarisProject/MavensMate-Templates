@@ -1,6 +1,6 @@
 /**
-	* Copyright (c) 2017 ForeFront, Inc. All Rights Reserved.
-	* Subject to ForeFront, Inc. licensing.
+	* © ForeFront, Inc. (2017)
+	* PROPRIETARY INFORMATION REVERSE ENGINEERING IS NOT ALLOWED
 	*
 	* @author UserName/Forefront
 	* @version 1.0

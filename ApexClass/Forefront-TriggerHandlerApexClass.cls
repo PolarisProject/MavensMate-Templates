@@ -1,5 +1,5 @@
 /**
-	* © ForeFront, Inc. (2017)
+	* © ForeFront, Inc. (2018)
 	* PROPRIETARY INFORMATION REVERSE ENGINEERING IS NOT ALLOWED
 	*
 	* @author UserName/Forefront

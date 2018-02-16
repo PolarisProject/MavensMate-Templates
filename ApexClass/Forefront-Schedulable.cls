@@ -1,5 +1,5 @@
 /**
-	* Copyright (c) 2017 ForeFront, Inc. All Rights Reserved.
+	* Copyright (c) 2018 ForeFront, Inc. All Rights Reserved.
 	* Subject to ForeFront, Inc. licensing.
 	*
 	* @author UserName/Forefront

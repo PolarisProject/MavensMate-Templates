@@ -1,0 +1,19 @@
+root = true
+
+[*]
+indent_size = 2
+
+[*.{cls,trigger}]
+indent_style = space
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+# We would prefer final newlines, but Salesforce removes them on deployment
+insert_final_newline = false
+
+[{package,destructiveChanges,destructiveChangesPre,destructiveChangesPost}.xml]
+indent_style = tab
+
+[*.mdown]
+indent_style = space
+indent_size = 4

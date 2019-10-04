@@ -1,50 +1,6 @@
 {
 	"ApexClass" : [
 		{
-			"name" 			: "Forefront Apex Class",
-			"file_name"		: "Forefront-ApexClass.cls",
-			"description" 	: "The default Forefront template for an Apex Class",
-			"author" 		: "Carl Weiss",
-			"params" 		: [ 
-		        {   
-		            "name"          : "api_name",
-		            "description"   : "Apex Class API Name",
-		            "default" 		: "MyApexClass"
-		        }
-		   ]
-		},
-		{
-			"name"			: "Forefront Trigger Handler",
-			"file_name"		: "Forefront-TriggerHandlerApexClass.cls",
-			"description" 	: "The default Forefront template for an Apex Class Trigger Handler",
-			"author" 		: "Carl Weiss",
-			"params" 		: [ 
-		        {   
-		            "name"          : "api_name",
-		            "description"   : "Apex Trigger Handler Class API Name",
-		            "default" 		: "MyApexTriggerHandlerClass"
-		        },
-		        {   
-		            "name"          : "object_name",
-		            "description"   : "Object API Name",
-		            "default" 		: "Account"
-		        }
-		   ]
-		},
-		{
-			"name" 			: "Forefront Unit Test",
-			"file_name"		: "Forefront-UnitTestApexClass.cls",
-			"description" 	: "The default Forefront template for an Apex Unit Test",
-			"author" 		: "Carl Weiss",
-			"params" 		: [ 
-		        {   
-		            "name"          : "api_name",
-		            "description"   : "Apex Unit Test Class API Name",
-		            "default" 		: "MyApexClass_TEST"
-		        }
-		   ]
-		},
-		{
 			"name" 			: "Default",
 			"file_name"		: "ApexClass.cls",
 			"description" 	: "The default template for an Apex Class",
